@@ -4,6 +4,7 @@
 
 # HTML title tag content
 title = "TOTP Token Generator"
+base_path = "totp_token_generator"
 
 # include `assets` in web platform
 [web.resource]
